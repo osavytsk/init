@@ -1,2 +1,0 @@
-route get default | grep gateway
-# netstat -rn | grep default
